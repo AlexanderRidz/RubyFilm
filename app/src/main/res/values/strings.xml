@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RubyFilm</string>
+    <string name="title_home">Home</string>
+    <string name="title_subscription">Subscription</string>
+    <string name="title_search">Search</string>
+    <string name="title_favourite">favourite</string>
+    <string name="toolbar_title_profile">Profile</string>
+</resources>
